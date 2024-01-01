@@ -68,6 +68,9 @@ To get started with the project, follow these steps:
     ?>
     ```
 
+5. **Import Database Schema:**
+    - Import the `database.sql` file into your MySQL database after creating it.
+
 ## PHP Version Compatibility:
 
 This project requires PHP version 8.1 or higher. Ensure that your development environment is using a compatible PHP version.
