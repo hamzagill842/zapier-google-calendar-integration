@@ -27,7 +27,7 @@
 Thumbs.db
 
 # Ignore configuration files that may contain sensitive information
-config.php
+#config.php
 
 # Ignore user-specific files
 /.htaccess
